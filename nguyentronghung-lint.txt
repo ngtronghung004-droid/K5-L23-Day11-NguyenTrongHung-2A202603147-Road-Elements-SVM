@@ -1,0 +1,36 @@
+﻿A01_bc5fadac-fa6dd225.jpg: drivable 3, lane 4, traffic_sign 1
+A02_b3c26aff-63a0d7d6.jpg: drivable 3, lane 3, road_curb 1
+A03_b1c66a42-6f7d68ca.jpg: drivable 2, lane 2, traffic_light 2, traffic_sign 4
+A04_b7a8e795-0ff55db2.jpg: drivable 2, lane 3, road_curb 1, traffic_sign 3
+A05_b2576c8c-2de20b8a.jpg: drivable 1
+A06_b8c66e31-37045eec.jpg: crosswalk 3, drivable 1, lane 3, traffic_light 6, traffic_sign 5
+A07_b41ace08-c8468690.jpg: drivable 2, lane 3
+A08_c0deebc1-16cfa791.jpg: crosswalk 3, drivable 5, lane 11, traffic_light 9, traffic_sign 10
+A09_c7e6d5d1-c8af9fe3.jpg: drivable 1, lane 2, road_curb 1, traffic_sign 1
+A10_b6ff1331-f6d3fba8.jpg: drivable 4, lane 3, road_curb 1, traffic_light 2, traffic_sign 7
+A11_c1f35f18-b529c043.jpg: crosswalk 1, drivable 2, lane 4, traffic_light 2
+A12_c0f978fa-9b4e623f.jpg: crosswalk 3, drivable 4, lane 3, traffic_light 3, traffic_sign 2
+A13_c179d309-b446fda3.jpg: drivable 3, lane 3, road_curb 1, traffic_sign 1
+A14_ca04d99f-c1282bb7.jpg: crosswalk 3, drivable 2, lane 3, road_curb 1, traffic_light 5, traffic_sign 1
+A15_be85bd88-d849c034.jpg: drivable 3, lane 5, traffic_sign 12
+A16_b6f77fda-33d2260f.jpg: crosswalk 3, drivable 3, lane 6, traffic_light 2, traffic_sign 2
+B01_02688_FV.png: crosswalk 1, drivable 1, lane 2, road_curb 2, traffic_light 1
+B02_03177_FV.png: crosswalk 2, drivable 2, lane 2, road_curb 1, traffic_light 3
+B03_04267_RV.png: drivable 2, lane 5, road_curb 2, traffic_light 2, traffic_sign 6
+B04_05535_RV.png: crosswalk 1, drivable 2, lane 3, road_curb 2, traffic_light 2, traffic_sign 1
+B05_05780_MVL.png: crosswalk 2, drivable 2, lane 3, road_curb 2, traffic_light 1, traffic_sign 5
+B06_04068_MVL.png: crosswalk 2, drivable 4, lane 8, road_curb 2
+B07_01216_MVR.png: crosswalk 3, drivable 3, lane 4, road_curb 2
+B08_05783_MVR.png: crosswalk 1, drivable 3, lane 1, road_curb 1
+B09_02686_FV.png: crosswalk 2, drivable 1, lane 3, road_curb 1
+B10_01153_MVL.png: drivable 3, road_curb 1
+B11_07282_RV.png: drivable 1, lane 6
+B12_05885_MVR.png: crosswalk 3, drivable 1, lane 1, road_curb 1
+
+[QC1-02 nặng] A05 lane: chưa có L1 (bỏ qua nếu thật sự không thấy vạch)
+[QC1-02 nặng] A05 lane: chưa có R1 (bỏ qua nếu thật sự không thấy vạch)
+[QC1-02 nặng] A09 lane: chưa có R1 (bỏ qua nếu thật sự không thấy vạch)
+[QC1-02 nặng] A14 lane: chưa có R1 (bỏ qua nếu thật sự không thấy vạch)
+
+28 ảnh, 4 cảnh báo. Lint chỉ là gợi ý; GT và người kiểm mới quyết định lỗi.
+Manifest bàn giao → nguyentronghung-manifest.json
